@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/geanesouza/cursoNode/issues"
   },
-  "homepage": "https://github.com/geanesouza/cursoNode#readme"
+  "homepage": "https://github.com/geanesouza/cursoNode#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.0"
+  }
 }
